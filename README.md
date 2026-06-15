@@ -19,13 +19,19 @@
 ---
 
 ```text
-╔══════════════════ CHARACTER ══════════════════╗
-   NAME .......... Mochi
-   CLASS ......... Student Developer
-   LEVEL ......... 21
-   LOCATION ...... Sydney  📍
-   STATUS ........ 🟢 Online & Building
-╚════════════════════════════════════════════════╝
+╔══════════ CHARACTER ══════════╗
+║                               ║
+║   > MOCHI             LV.21   ║
+║   Student Developer           ║
+║                               ║
+║   HP   ██████████████░░░░░░   ║
+║   MP   █████████████████░░░   ║
+║   EXP  ███████████░░░░░░░░░   ║
+║                               ║
+║   LOC  Sydney, AU             ║
+║   ▶ Online & Building         ║
+║                               ║
+╚═══════════════════════════════╝
 ```
 
 ## 🎒 INVENTORY
