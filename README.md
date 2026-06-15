@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/character.svg" alt="Mochi - Character Card" width="480" />
+  <img src="./assets/character.svg?v=2" alt="Mochi - Ability Radar" width="480" />
 </div>
 
 ## 🎒 INVENTORY
