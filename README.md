@@ -44,7 +44,7 @@
 ## 📊 STATS
 
 <div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=houj716-cloud&screen_effect=true&theme=crt" alt="Mochi's Pixel GitHub Stats" />
+  <img src="https://1-beryl-ten.vercel.app/api/github-stats?username=houj716-cloud&screen_effect=true&theme=crt" alt="Mochi's Pixel GitHub Stats" />
 </div>
 
 ---
