@@ -9,14 +9,14 @@
 
 ---
 
-<div align="left">
-  <img src="./assets/character.svg?v=2" alt="Mochi - Ability Radar" width="440" />
-</div>
-
 ## 📊 STATS
 
 <div align="center">
   <img src="./assets/stats.png?v=3" alt="Mochi's Pixel GitHub Stats" />
+</div>
+
+<div align="left">
+  <img src="./assets/character.svg?v=2" alt="Mochi - Ability Radar" width="440" />
 </div>
 
 ---
