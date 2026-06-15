@@ -15,8 +15,9 @@
   <img src="./assets/stats.png?v=3" alt="Mochi's Pixel GitHub Stats" />
 </div>
 
-<div align="left">
-  <img src="./assets/character.svg?v=2" alt="Mochi - Ability Radar" width="440" />
+<div align="center">
+  <img src="./assets/card.svg" alt="Mochi - Character Card" width="49%" />
+  <img src="./assets/character.svg?v=2" alt="Mochi - Ability Radar" width="49%" />
 </div>
 
 ---
