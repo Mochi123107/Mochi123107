@@ -1,14 +1,14 @@
-<div align="center">
-
-# 🎮 PLAYER: MOCHI 🎮
-
-<b>🕹️ Pixel Game Developer &nbsp;·&nbsp; 🎨 AI Artist &nbsp;·&nbsp; 👾 Godot Explorer</b>
 ██████╗ ██╗██╗  ██╗███████╗██╗
 ██╔══██╗██║╚██╗██╔╝██╔════╝██║
 ██████╔╝██║ ╚███╔╝ █████╗  ██║
 ██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║
 ██║     ██║██╔╝ ██╗███████╗███████╗
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+<div align="center">
+
+# 🎮 PLAYER: MOCHI 🎮
+
+<b>🕹️ Pixel Game Developer &nbsp;·&nbsp; 🎨 AI Artist &nbsp;·&nbsp; 👾 Godot Explorer</b>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=800&color=7CE38B&center=true&vCenter=true&width=600&lines=Press+START+to+continue...;Building+worlds%2C+one+pixel+at+a+time;Now+loading+Godot+project..." alt="typing" />
 
 </div>
