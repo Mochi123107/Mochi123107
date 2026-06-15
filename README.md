@@ -44,7 +44,7 @@
 ## 📊 STATS
 
 <div align="center">
-  <img src="./assets/stats.png" alt="Mochi's Pixel GitHub Stats" />
+  <img src="./assets/stats.png?v=2" alt="Mochi's Pixel GitHub Stats" />
 </div>
 
 ---
