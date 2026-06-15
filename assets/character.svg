@@ -1,0 +1,33 @@
+<svg width='480' height='300' viewBox='0 0 480 300' xmlns='http://www.w3.org/2000/svg' font-family='Consolas, "Courier New", monospace'>
+  <defs>
+    <pattern id='scan' width='3' height='3' patternUnits='userSpaceOnUse'>
+      <rect width='3' height='1.2' y='0' fill='#000000' opacity='0.18'/>
+    </pattern>
+  </defs>
+
+  <rect width='480' height='300' rx='10' fill='#070b07'/>
+  <rect x='5' y='5' width='470' height='290' rx='8' fill='none' stroke='#0f3d22' stroke-width='7'/>
+  <rect x='10' y='10' width='460' height='280' rx='6' fill='none' stroke='#7CE38B' stroke-width='2'/>
+
+  <text x='240' y='48' text-anchor='middle' fill='#7CE38B' font-size='22' font-weight='bold' letter-spacing='4'>&#9733; CHARACTER &#9733;</text>
+  <line x1='30' y1='62' x2='450' y2='62' stroke='#1f6f43' stroke-width='2'/>
+
+  <text x='30' y='92' fill='#eafff0' font-size='22' font-weight='bold' letter-spacing='2'>&#9658; MOCHI</text>
+  <text x='450' y='92' text-anchor='end' fill='#ffcf4d' font-size='20' font-weight='bold'>LV.21</text>
+  <text x='32' y='110' fill='#7fae8f' font-size='12' letter-spacing='2'>STUDENT DEVELOPER</text>
+
+  <text x='30' y='129' fill='#3ddc5c' font-size='13' font-weight='bold'>HP</text>
+  <rect x='150' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='167' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='184' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='201' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='218' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='235' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='252' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='269' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='286' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='303' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='320' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='337' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='354' y='116' width='14' height='16' rx='1' fill='#3ddc5c'/><rect x='371' y='116' width='14' height='16' rx='1' fill='#15301c'/><rect x='388' y='116' width='14' height='16' rx='1' fill='#15301c'/><rect x='405' y='116' width='14' height='16' rx='1' fill='#15301c'/><rect x='422' y='116' width='14' height='16' rx='1' fill='#15301c'/><rect x='439' y='116' width='14' height='16' rx='1' fill='#15301c'/>
+  <text x='30' y='167' fill='#4ca3ff' font-size='13' font-weight='bold'>MP</text>
+  <rect x='150' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='167' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='184' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='201' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='218' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='235' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='252' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='269' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='286' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='303' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='320' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='337' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='354' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='371' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='388' y='154' width='14' height='16' rx='1' fill='#4ca3ff'/><rect x='405' y='154' width='14' height='16' rx='1' fill='#14283d'/><rect x='422' y='154' width='14' height='16' rx='1' fill='#14283d'/><rect x='439' y='154' width='14' height='16' rx='1' fill='#14283d'/>
+  <text x='30' y='205' fill='#ffcf4d' font-size='13' font-weight='bold'>EXP</text>
+  <rect x='150' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='167' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='184' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='201' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='218' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='235' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='252' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='269' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='286' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='303' y='192' width='14' height='16' rx='1' fill='#ffcf4d'/><rect x='320' y='192' width='14' height='16' rx='1' fill='#332b12'/><rect x='337' y='192' width='14' height='16' rx='1' fill='#332b12'/><rect x='354' y='192' width='14' height='16' rx='1' fill='#332b12'/><rect x='371' y='192' width='14' height='16' rx='1' fill='#332b12'/><rect x='388' y='192' width='14' height='16' rx='1' fill='#332b12'/><rect x='405' y='192' width='14' height='16' rx='1' fill='#332b12'/><rect x='422' y='192' width='14' height='16' rx='1' fill='#332b12'/><rect x='439' y='192' width='14' height='16' rx='1' fill='#332b12'/>
+
+  <line x1='30' y1='228' x2='450' y2='228' stroke='#1f6f43' stroke-width='2'/>
+  <text x='30' y='252' fill='#7fae8f' font-size='13' letter-spacing='1'>LOC</text>
+  <text x='150' y='252' fill='#eafff0' font-size='13' letter-spacing='1'>Sydney, AU</text>
+  <circle cx='36' cy='274' r='5' fill='#3ddc5c'/>
+  <text x='50' y='279' fill='#eafff0' font-size='13' letter-spacing='1'>Online &amp; Building</text>
+
+  <rect width='480' height='300' rx='10' fill='url(#scan)'/>
+</svg>

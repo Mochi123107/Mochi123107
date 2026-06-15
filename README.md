@@ -18,21 +18,9 @@
 
 ---
 
-```text
-╔══════════ CHARACTER ══════════╗
-║                               ║
-║   > MOCHI             LV.21   ║
-║   Student Developer           ║
-║                               ║
-║   HP   ██████████████░░░░░░   ║
-║   MP   █████████████████░░░   ║
-║   EXP  ███████████░░░░░░░░░   ║
-║                               ║
-║   LOC  Sydney, AU             ║
-║   ▶ Online & Building         ║
-║                               ║
-╚═══════════════════════════════╝
-```
+<div align="center">
+  <img src="./assets/character.svg" alt="Mochi - Character Card" width="480" />
+</div>
 
 ## 🎒 INVENTORY
 
