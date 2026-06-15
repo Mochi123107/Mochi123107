@@ -33,22 +33,11 @@
 
 ---
 
-## 📜 CURRENT QUESTS
+## 🎴 FEATURED PROJECT
 
-```text
-[✓] Build Pixel Art Website
-[✓] Design Neon GameBoy UI
-[ ] Finish Pixel Trading Card Game
-[ ] Release First Indie Game
-```
+### 🎮 Pixel AI Generator
 
----
-
-## 🎴 FEATURED PROJECTS
-
-| 🎮 Pixel AI Generator | 🎴 Pixel Trading Card Game | 🕹️ Neon Arcade UI |
-|:---|:---|:---|
-| Generate retro pixel-art characters with AI. | A pixel card game built with Godot. | Retro handheld-console themed web components. |
+> Generate retro pixel-art characters with AI.
 
 ---
 
@@ -57,6 +46,16 @@
 <div align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=houj716-cloud&screen_effect=true&theme=crt" alt="Mochi's Pixel GitHub Stats" />
 </div>
+
+---
+
+## 📫 CONTACT
+
+<p align="center">
+  <a href="mailto:3234208868@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Mail-3234208868@qq.com-EB1923?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Mail" />
+  </a>
+</p>
 
 ---
 
