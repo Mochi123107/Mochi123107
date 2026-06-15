@@ -17,8 +17,9 @@ jobs:
       - name: Fetch pixel-profile stats card
         run: |
           mkdir -p assets
+          # cache-bust param forces a fresh render (picks up avatar/stat changes)
           curl -fsSL --retry 6 --retry-delay 10 --retry-all-errors \
-            "https://1-beryl-ten.vercel.app/api/github-stats?username=houj716-cloud&theme=crt" \
+            "https://1-beryl-ten.vercel.app/api/github-stats?username=houj716-cloud&theme=crt&cb=$(date +%s)" \
             -o assets/stats.png
           # sanity check: must be a non-trivial PNG
           test "$(stat -c%s assets/stats.png)" -gt 1000
