@@ -1,43 +1,35 @@
 <div align="center">
 
-# 🎮 MOCHI
+# 🎮 PLAYER: MOCHI 🎮
 
-```text
-LV.21 STUDENT DEVELOPER
-```
+<b>🕹️ Pixel Game Developer &nbsp;·&nbsp; 🎨 AI Artist &nbsp;·&nbsp; 👾 Godot Explorer</b>
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=houj716-cloud&screen_effect=true&theme=crt" alt="Mochi's Pixel GitHub Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=800&color=7CE38B&center=true&vCenter=true&width=600&lines=Press+START+to+continue...;Building+worlds%2C+one+pixel+at+a+time;Now+loading+Godot+project..." alt="typing" />
 
 </div>
 
 ---
 
-## 🕹 PLAYER INFO
-
-```yaml
-name: Mochi
-username: houj716-cloud
-class: Student Developer
-location: Sydney
-skills:
-  - C
-  - Godot
-  - Pixel Art
-  - AI Tools
+```text
+╔══════════════════ CHARACTER ══════════════════╗
+   NAME .......... Mochi
+   CLASS ......... Student Developer
+   LEVEL ......... 21
+   LOCATION ...... Sydney  📍
+   STATUS ........ 🟢 Online & Building
+╚════════════════════════════════════════════════╝
 ```
-
----
 
 ## 🎒 INVENTORY
 
 ```text
-🎮 Godot Engine
-⚙️ C Language
-🐧 Linux
-🎨 Pixel Art
-🤖 AI Tools
-🌐 Web Development
+🎮 Godot Engine     ⚙️ C Language       🐧 Linux
+🎨 Pixel Art        🤖 AI Tools         🌐 Web Development
 ```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,github,vscode,godot" />
+</p>
 
 ---
 
@@ -52,35 +44,26 @@ skills:
 
 ---
 
-## ⚡ SKILLS
+## 🎴 FEATURED PROJECTS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,github,vscode,godot" />
-</p>
+| 🎮 Pixel AI Generator | 🎴 Pixel Trading Card Game | 🕹️ Neon Arcade UI |
+|:---|:---|:---|
+| Generate retro pixel-art characters with AI. | A pixel card game built with Godot. | Retro handheld-console themed web components. |
 
 ---
 
-## 🎴 FEATURED PROJECTS
+## 📊 STATS
 
-### 🎮 Pixel AI Generator
-
-Generate retro pixel-art characters with AI.
-
-### 🎴 Pixel Trading Card Game
-
-A pixel card game built with Godot.
-
-### 🕹 Neon Arcade UI
-
-Retro handheld-console themed web components.
+<div align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=houj716-cloud&screen_effect=true&theme=crt" alt="Mochi's Pixel GitHub Stats" />
+</div>
 
 ---
 
 <div align="center">
 
 ```text
-PRESS START TO CONTINUE...
+⭐ Thanks for visiting my dungeon — GG! ⭐
 ```
 
 </div>
-
