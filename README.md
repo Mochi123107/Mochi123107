@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-# 馃幃 PLAYER: MOCHI 馃幃
+# 🎮 PLAYER: MOCHI 🎮
 
-<b>馃暪锔?Pixel Game Developer &nbsp;路&nbsp; 馃帹 AI Artist &nbsp;路&nbsp; 馃懢 Godot Explorer</b>
+<b>🕹️ Pixel Game Developer &nbsp;·&nbsp; 🎨 AI Artist &nbsp;·&nbsp; 👾 Godot Explorer</b>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=800&color=7CE38B&center=true&vCenter=true&width=600&lines=Press+START+to+continue...;Building+worlds%2C+one+pixel+at+a+time;Now+loading+Godot+project..." alt="typing" />
 
@@ -11,20 +11,20 @@
 ---
 
 ```text
-鈺斺晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?CHARACTER 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?
+╔══════════════════ CHARACTER ══════════════════╗
    NAME .......... Mochi
    CLASS ......... Student Developer
    LEVEL ......... 21
-   LOCATION ...... Sydney  馃搷
-   STATUS ........ 馃煝 Online & Building
-鈺氣晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨暆
+   LOCATION ...... Sydney  📍
+   STATUS ........ 🟢 Online & Building
+╚════════════════════════════════════════════════╝
 ```
 
-## 馃帓 INVENTORY
+## 🎒 INVENTORY
 
 ```text
-馃幃 Godot Engine     鈿欙笍 C Language       馃惂 Linux
-馃帹 Pixel Art        馃 AI Tools         馃寪 Web Development
+🎮 Godot Engine     ⚙️ C Language       🐧 Linux
+🎨 Pixel Art        🤖 AI Tools         🌐 Web Development
 ```
 
 <p align="center">
@@ -33,15 +33,15 @@
 
 ---
 
-## 馃幋 FEATURED PROJECT
+## 🎴 FEATURED PROJECT
 
-### 馃幃 Pixel AI Generator
+### 🎮 Pixel AI Generator
 
 > Generate retro pixel-art characters with AI.
 
 ---
 
-## 馃搳 STATS
+## 📊 STATS
 
 <div align="center">
   <img src="https://1-beryl-ten.vercel.app/api/github-stats?username=houj716-cloud&theme=crt" alt="Mochi's Pixel GitHub Stats" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 馃摣 CONTACT
+## 📫 CONTACT
 
 <p align="center">
   <a href="mailto:3234208868@qq.com">
@@ -62,7 +62,7 @@
 <div align="center">
 
 ```text
-猸?Thanks for visiting my dungeon 鈥?GG! 猸?
+⭐ Thanks for visiting my dungeon — GG! ⭐
 ```
 
 </div>
