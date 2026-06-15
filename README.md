@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
-# 🎮 PLAYER: MOCHI 🎮
+# 馃幃 PLAYER: MOCHI 馃幃
 
-<b>🕹️ Pixel Game Developer &nbsp;·&nbsp; 🎨 AI Artist &nbsp;·&nbsp; 👾 Godot Explorer</b>
+<b>馃暪锔?Pixel Game Developer &nbsp;路&nbsp; 馃帹 AI Artist &nbsp;路&nbsp; 馃懢 Godot Explorer</b>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=800&color=7CE38B&center=true&vCenter=true&width=600&lines=Press+START+to+continue...;Building+worlds%2C+one+pixel+at+a+time;Now+loading+Godot+project..." alt="typing" />
 
@@ -11,20 +11,20 @@
 ---
 
 ```text
-╔══════════════════ CHARACTER ══════════════════╗
+鈺斺晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?CHARACTER 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?
    NAME .......... Mochi
    CLASS ......... Student Developer
    LEVEL ......... 21
-   LOCATION ...... Sydney  📍
-   STATUS ........ 🟢 Online & Building
-╚════════════════════════════════════════════════╝
+   LOCATION ...... Sydney  馃搷
+   STATUS ........ 馃煝 Online & Building
+鈺氣晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨暆
 ```
 
-## 🎒 INVENTORY
+## 馃帓 INVENTORY
 
 ```text
-🎮 Godot Engine     ⚙️ C Language       🐧 Linux
-🎨 Pixel Art        🤖 AI Tools         🌐 Web Development
+馃幃 Godot Engine     鈿欙笍 C Language       馃惂 Linux
+馃帹 Pixel Art        馃 AI Tools         馃寪 Web Development
 ```
 
 <p align="center">
@@ -33,23 +33,23 @@
 
 ---
 
-## 🎴 FEATURED PROJECT
+## 馃幋 FEATURED PROJECT
 
-### 🎮 Pixel AI Generator
+### 馃幃 Pixel AI Generator
 
 > Generate retro pixel-art characters with AI.
 
 ---
 
-## 📊 STATS
+## 馃搳 STATS
 
 <div align="center">
-  <img src="https://1-beryl-ten.vercel.app/api/github-stats?username=houj716-cloud&screen_effect=true&theme=crt" alt="Mochi's Pixel GitHub Stats" />
+  <img src="https://1-beryl-ten.vercel.app/api/github-stats?username=houj716-cloud&theme=crt" alt="Mochi's Pixel GitHub Stats" />
 </div>
 
 ---
 
-## 📫 CONTACT
+## 馃摣 CONTACT
 
 <p align="center">
   <a href="mailto:3234208868@qq.com">
@@ -62,7 +62,7 @@
 <div align="center">
 
 ```text
-⭐ Thanks for visiting my dungeon — GG! ⭐
+猸?Thanks for visiting my dungeon 鈥?GG! 猸?
 ```
 
 </div>
