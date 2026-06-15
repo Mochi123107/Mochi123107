@@ -9,6 +9,10 @@
 
 ---
 
+<div align="left">
+  <img src="./assets/character.svg?v=2" alt="Mochi - Ability Radar" width="440" />
+</div>
+
 ## 📊 STATS
 
 <div align="center">
@@ -16,10 +20,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="./assets/character.svg?v=2" alt="Mochi - Ability Radar" width="480" />
-</div>
 
 ## 🎒 INVENTORY
 
