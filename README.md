@@ -10,6 +10,14 @@
 
 ---
 
+## 📊 STATS
+
+<div align="center">
+  <img src="./assets/stats.png?v=2" alt="Mochi's Pixel GitHub Stats" />
+</div>
+
+---
+
 ```text
 ╔══════════════════ CHARACTER ══════════════════╗
    NAME .......... Mochi
@@ -38,14 +46,6 @@
 ### 🎮 Pixel AI Generator
 
 > Generate retro pixel-art characters with AI.
-
----
-
-## 📊 STATS
-
-<div align="center">
-  <img src="./assets/stats.png?v=2" alt="Mochi's Pixel GitHub Stats" />
-</div>
 
 ---
 
