@@ -11,9 +11,9 @@
   <rect x='6' y='6' width='708' height='138' rx='12' fill='#0a0e0a'/>
   <rect x='10' y='10' width='700' height='130' rx='10' fill='none' stroke='#173d24' stroke-width='2'/>
   <g text-anchor='middle' dominant-baseline='middle'>
-    <text class='t' x='357' y='80' fill='#ff2e5b'>PLAYER: MOCHI</text>
-    <text class='t' x='363' y='80' fill='#2ef0ff'>PLAYER: MOCHI</text>
-    <text class='t' x='360' y='78' fill='#ffffff'>PLAYER: MOCHI</text>
+    <text class='t' x='357' y='80' fill='#ff2e5b'>PLAYER: MOCHITA</text>
+    <text class='t' x='363' y='80' fill='#2ef0ff'>PLAYER: MOCHITA</text>
+    <text class='t' x='360' y='78' fill='#ffffff'>PLAYER: MOCHITA</text>
   </g>
   <rect x='6' y='6' width='708' height='138' rx='12' fill='url(#scan2)'/>
 </svg>
